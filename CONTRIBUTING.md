@@ -13,7 +13,7 @@ There are several ways to contribute to FraudAI-Agents:
 
 1. **Submit a New Agent**: Have a fraud detection agent idea? You can submit your own agent by following the steps below.
 2. **Improve Existing Agents**: Find an issue or an improvement? Help us by optimizing or improving the current fraud detection agents.
-3. **Bug Reports and Feature Requests**: Found a bug or have a feature request? Open an [issue](https://github.com/ginix-co/FraudAI-Agents/issues).
+3. **Bug Reports and Feature Requests**: Found a bug or have a feature request? Open an [issue](https://github.com/ginix-co/ginix-Fraud-Agents/issues).
 4. **Documentation**: Help us improve documentation or write new tutorials.
 
 ## Getting Started
