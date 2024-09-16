@@ -14,5 +14,5 @@ Our goal is to build a collection of fraud detection agents, ranging from simple
 ## Getting Started
 1. Clone the repository
    ```bash
-   git clone https://github.com/YourUser/ginix-fraud-agents.git
+   git clone https://github.com/ginix-co/ginix-fraud-agents.git
    cd ginix-fraud-agents
