@@ -21,7 +21,7 @@ There are several ways to contribute to FraudAI-Agents:
 1. Fork the repository and clone it to your local machine:
    ```bash
    git clone https://github.com/ginix-co/giniX-Fraud-Agents.git
-   cd FraudAI-Agents
+   cd giniX-Fraud-Agents
    ```
 
 2. Create a new branch for your contribution:
